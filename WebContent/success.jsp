@@ -10,9 +10,9 @@
 <h2>Registered successfully!!!</h2>
 	<br/>
 	<h3>Your details are:</h3>
-	<p>Name : ${name}</p>
-    <p>Age: ${age}</p>
-    <p>Mobile no: ${mob}</p>
-    <p>Address: ${addr}</p>
+	<p>Name : ${stu.name}</p>
+    <p>Age: ${stu.age}</p>
+    <p>Mobile no: ${stu.mob}</p>
+    <p>Address: ${stu.addr}</p>
 </body>
 </html>
